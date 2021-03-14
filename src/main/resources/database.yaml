@@ -1,0 +1,1581 @@
+- name: "Acid"
+  volume: 1
+  avgPrice: 402
+  soldBy:
+  - "Chemical Factory"
+  - "Rubber Factory"
+  boughtBy:
+  - "Explosive Charge Factory"
+  - "Paint Manufacturer"
+  illegal: false
+  dangerours: false
+- name: "Acron Drug"
+  volume: 0.1
+  avgPrice: 6000
+  soldBy: []
+  boughtBy: []
+  illegal: true
+  dangerours: false
+- name: "Adhesive"
+  volume: 0.25
+  avgPrice: 402
+  soldBy:
+  - "Chemical Factory"
+  boughtBy:
+  - "Ammunition Factory"
+  - "Explosive Charge Factory"
+  - "High Pressure Tube Factory"
+  illegal: false
+  dangerours: false
+- name: "Aluminum"
+  volume: 1
+  avgPrice: 200
+  soldBy:
+  - "Aluminum Mine"
+  boughtBy:
+  - "Ammunition Factory"
+  - "Gun Factory"
+  - "High Pressure Tube Factory"
+  - "Laser Head Factory"
+  - "Servo Factory"
+  - "Steel Tube Factory"
+  - "Shipyard"
+  - "Tools Factory"
+  illegal: false
+  dangerours: false
+- name: "Ammunition"
+  volume: 3
+  avgPrice: 3786
+  soldBy:
+  - "Ammunition Factory"
+  boughtBy:
+  - "Equipment Dock"
+  - "Gun Factory"
+  - "Military Outpost"
+  illegal: false
+  dangerours: false
+- name: "Ammunition L"
+  volume: 2.5
+  avgPrice: 422
+  soldBy:
+  - "Ammunition Factory"
+  boughtBy:
+  - "Equipment Dock"
+  - "Military Outpost"
+  illegal: false
+  dangerours: false
+- name: "Ammunition M"
+  volume: 1.5
+  avgPrice: 422
+  soldBy:
+  - "Ammunition Factory"
+  boughtBy:
+  - "Equipment Dock"
+  - "Military Outpost"
+  illegal: false
+  dangerours: false
+- name: "Ammunition S"
+  volume: 0.5
+  avgPrice: 422
+  soldBy:
+  - "Ammunition Factory"
+  boughtBy:
+  - "Equipment Dock"
+  - "Military Outpost"
+  illegal: false
+  dangerours: false
+- name: "Antigrav Generator"
+  volume: 2.5
+  avgPrice: 71632
+  soldBy:
+  - "Antigrav Generator Factory"
+  boughtBy:
+  - "Equipment Dock"
+  - "Research Station"
+  - "Shipyard"
+  illegal: false
+  dangerours: false
+- name: "Antigrav Unit"
+  volume: 2.5
+  avgPrice: 25391
+  soldBy:
+  - "Antigrav Unit Factory"
+  boughtBy:
+  - "Antigrav Generator Factory"
+  - "Body Armor Factory"
+  - "Vehicle Factory"
+  - "Teleporter Factory"
+  illegal: false
+  dangerours: false
+- name: "Beer"
+  volume: 0.5
+  avgPrice: 216
+  soldBy:
+  - "Brewery"
+  boughtBy:
+  - "Casino"
+  - "Habitat"
+  illegal: false
+  dangerours: false
+- name: "Bio Gas"
+  volume: 1
+  avgPrice: 213
+  soldBy:
+  - "Cattle Ranch"
+  - "Fish Farm"
+  - "Sheep Ranch"
+  boughtBy:
+  - "Chemical Factory"
+  - "Fungus Farm"
+  - "Plasma Cell Factory"
+  illegal: false
+  dangerours: false
+- name: "Body Armor"
+  volume: 1.5
+  avgPrice: 95906
+  soldBy:
+  - "Body Armor Factory"
+  boughtBy:
+  - "Military Outpost"
+  illegal: false
+  dangerours: false
+- name: "Book"
+  volume: 0.2
+  avgPrice: 319
+  soldBy:
+  - "Book Factory"
+  boughtBy:
+  - "Habitat"
+  illegal: false
+  dangerours: false
+- name: "Carbon"
+  volume: 1
+  avgPrice: 423
+  soldBy:
+  - "Carbon Extractor"
+  - "Planetary Trading Post"
+  boughtBy:
+  - "Body Armor Factory"
+  - "Chemical Factory"
+  - "High Capacity Lens Factory"
+  - "High Pressure Tube Factory"
+  - "Steel Factory"
+  illegal: false
+  dangerours: false
+- name: "Cattle"
+  volume: 1.5
+  avgPrice: 254
+  soldBy:
+  - "Cattle Ranch"
+  boughtBy:
+  - "Biotope"
+  - "Dairy Farm"
+  - "Meat Factory"
+  illegal: false
+  dangerours: false
+- name: "Chemicals"
+  volume: 1
+  avgPrice: 402
+  soldBy:
+  - "Chemical Factory"
+  boughtBy:
+  - "Ammunition Factory"
+  - "Explosive Charge Factory"
+  - "Fertilizer Factory"
+  - "Medical Supplies Factory"
+  - "Paint Manufacturer"
+  - "Warhead Factory"
+  illegal: false
+  dangerours: false
+- name: "Chlorine"
+  volume: 1
+  avgPrice: 150
+  soldBy:
+  - "Gas Collector"
+  boughtBy:
+  - "Medical Supplies Factory"
+  illegal: false
+  dangerours: false
+- name: "Clothes"
+  volume: 1
+  avgPrice: 102
+  soldBy:
+  - "Clothes Factory"
+  boughtBy: []
+  illegal: false
+  dangerours: false
+- name: "Coal"
+  volume: 2
+  avgPrice: 200
+  soldBy:
+  - "Coal Mine"
+  boughtBy:
+  - "Biotope"
+  - "Steel Factory"
+  illegal: false
+  dangerours: false
+- name: "Cocoa"
+  volume: 0.2
+  avgPrice: 87
+  soldBy:
+  - "Cocoa Farm"
+  boughtBy:
+  - "Habitat"
+  illegal: false
+  dangerours: false
+- name: "Coffee"
+  volume: 0.2
+  avgPrice: 187
+  soldBy:
+  - "Coffee Farm"
+  boughtBy:
+  - "Habitat"
+  illegal: false
+  dangerours: false
+- name: "Computation Mainframe"
+  volume: 1
+  avgPrice: 37940
+  soldBy:
+  - "Computation Mainframe Factory"
+  boughtBy:
+  - "Shipyard"
+  illegal: false
+  dangerours: false
+- name: "Conductor"
+  volume: 0.15
+  avgPrice: 168
+  soldBy:
+  - "Conductor Factory"
+  boughtBy:
+  - "Accelerator Factory"
+  - "Electro Magnet Factory"
+  - "Energy Generator Factory"
+  - "Energy Inverter Factory"
+  - "Laser Head Factory"
+  - "Servo Factory"
+  - "Targeting System Factory"
+  - "Teleporter Factory"
+  - "Warhead Factory"
+  illegal: false
+  dangerours: false
+- name: "Coolant"
+  volume: 0.5
+  avgPrice: 402
+  soldBy:
+  - "Chemical Factory"
+  boughtBy:
+  - "Body Armor Factory"
+  - "Mining Robot Factory"
+  - "Turbine Factory"
+  - "War Robot Factory"
+  illegal: false
+  dangerours: false
+- name: "Copper"
+  volume: 1
+  avgPrice: 350
+  soldBy:
+  - "Copper Mine"
+  - "Planetary Trading Post"
+  boughtBy:
+  - "Computer Component Factory"
+  - "Electro Magnet Factory"
+  - "Processor Factory"
+  - "Targeting Card Factory"
+  - "Tesla Coil Factory"
+  illegal: false
+  dangerours: false
+- name: "Corn"
+  volume: 1
+  avgPrice: 28
+  soldBy:
+  - "Corn Farm"
+  boughtBy:
+  - "Biotope"
+  - "Carbon Extractor"
+  - "Cattle Ranch"
+  - "Food Bar Factory"
+  - "Food Factory"
+  - "Sheep Ranch"
+  illegal: false
+  dangerours: false
+- name: "Crystal"
+  volume: 1.5
+  avgPrice: 190
+  soldBy:
+  - "Crystal Farm"
+  boughtBy:
+  - "Glass Manufacturer"
+  - "Nanobot Factory"
+  illegal: false
+  dangerours: false
+- name: "Dairy"
+  volume: 1
+  avgPrice: 19
+  soldBy:
+  - "Dairy Farm"
+  boughtBy:
+  - "Protein Factory"
+  illegal: false
+  dangerours: false
+- name: "Diamond"
+  volume: 0.05
+  avgPrice: 750
+  soldBy:
+  - "Trading Post"
+  boughtBy:
+  - "Drill Factory"
+  - "High Capacity Lens Factory"
+  - "Jewelry Manufacturer"
+  illegal: false
+  dangerours: false
+- name: "Display"
+  volume: 1
+  avgPrice: 7858
+  soldBy:
+  - "Computer Component Factory"
+  - "Display Factory"
+  boughtBy:
+  - "Computation Mainframe Factory"
+  - "Mining Robot Factory"
+  - "Satellite Factory"
+  - "Shipyard"
+  - "Vehicle Factory"
+  - "War Robot Factory"
+  illegal: false
+  dangerours: false
+- name: "Drill"
+  volume: 20
+  avgPrice: 20443
+  soldBy:
+  - "Drill Factory"
+  boughtBy:
+  - "Mining Robot Factory"
+  - "Planetary Trading Post"
+  - "Research Station"
+  - "Equipment Dock"
+  illegal: false
+  dangerours: false
+- name: "Drone"
+  volume: 10
+  avgPrice: 7754
+  soldBy:
+  - "Drone Factory"
+  boughtBy:
+  - "Equipment Dock"
+  - "Planetary Trading Post"
+  illegal: false
+  dangerours: false
+- name: "Electro Magnet"
+  volume: 0.75
+  avgPrice: 483
+  soldBy:
+  - "Electro Magnet Factory"
+  boughtBy:
+  - "Antigrav Generator Factory"
+  - "Electromagnetic Charge Factory"
+  - "Force Generator Factory"
+  - "Gauss Rail Factory"
+  illegal: false
+  dangerours: false
+- name: "Electromagnetic Charge"
+  volume: 1
+  avgPrice: 13985
+  soldBy:
+  - "Electromagnetic Charge Factory"
+  boughtBy:
+  - "Military Outpost"
+  illegal: false
+  dangerours: false
+- name: "Electron Accelerator"
+  volume: 12
+  avgPrice: 125431
+  soldBy:
+  - "Accelerator Factory"
+  boughtBy:
+  - "Research Station"
+  illegal: false
+  dangerours: false
+- name: "Energy Cell"
+  volume: 1
+  avgPrice: 50
+  soldBy:
+  - "Solar Power Plant"
+  boughtBy:
+  - "Ammunition Factory"
+  - "Antigrav Unit Factory"
+  - "Book Factory"
+  - "Chemical Factory"
+  - "Cocoa Farm"
+  - "Coffee Farm"
+  - "Conductor Factory"
+  - "Corn Farm"
+  - "Distillery"
+  - "Energy Container Factory"
+  - "Energy Generator Factory"
+  - "Energy Tube Factory"
+  - "Explosive Charge Factory"
+  - "Fertilizer Factory"
+  - "Food Bar Factory"
+  - "Fruit Farm"
+  - "Fuel Factory"
+  - "Gauss Rail Factory"
+  - "Laser Head Factory"
+  - "Laser Modulator Factory"
+  - "Luxury Food Factory"
+  - "Microchip Factory"
+  - "Oil Refinery"
+  - "Planetary Trading Post"
+  - "Plant Farm"
+  - "Plasma Cell Factory"
+  - "Plastic Manufacturer"
+  - "Potato Farm"
+  - "Power Unit Factory"
+  - "Rice Farm"
+  - "Rubber Factory"
+  - "Semi Conductor Manufacturer"
+  - "Sheep Ranch"
+  - "Solar Cell Factory"
+  - "Spices Farm"
+  - "Targeting System Factory"
+  - "Tea Farm"
+  - "Tools Factory"
+  - "Transformator Factory"
+  - "Vegetable Farm"
+  - "Wheat Farm"
+  - "Wood Farm"
+  illegal: false
+  dangerours: false
+- name: "Energy Container"
+  volume: 4.5
+  avgPrice: 1087
+  soldBy:
+  - "Energy Container Factory"
+  boughtBy:
+  - "Electromagnetic Charge Factory"
+  - "Satellite Factory"
+  - "Shipyard"
+  illegal: false
+  dangerours: false
+- name: "Energy Generator"
+  volume: 2
+  avgPrice: 15957
+  soldBy:
+  - "Energy Generator Factory"
+  boughtBy:
+  - "Antigrav Generator Factory"
+  - "Force Generator Factory"
+  - "Planetary Trading Post"
+  - "Vehicle Factory"
+  illegal: false
+  dangerours: false
+- name: "Energy Inverter"
+  volume: 3
+  avgPrice: 1277
+  soldBy:
+  - "Energy Inverter Factory"
+  - "Turret Factory (as of 1.0)"
+  boughtBy: []
+  illegal: false
+  dangerours: false
+- name: "Energy Tube"
+  volume: 1.5
+  avgPrice: 2895
+  soldBy:
+  - "Energy Tube Factory"
+  boughtBy:
+  - "Accelerator Factory"
+  - "Electromagnetic Charge Factory"
+  - "Energy Inverter Factory"
+  - "Fusion Core Factory"
+  - "Gauss Rail Factory"
+  - "Laser Compressor Factory"
+  - "Laser Modulator Factory"
+  - "Shipyard"
+  illegal: false
+  dangerours: false
+- name: "Explosive Charge"
+  volume: 1.5
+  avgPrice: 1423
+  soldBy:
+  - "Explosive Charge Factory"
+  boughtBy:
+  - "Military Outpost"
+  - "Planetary Trading Post"
+  illegal: false
+  dangerours: true
+- name: "Fabric"
+  volume: 1
+  avgPrice: 91
+  soldBy:
+  - "Fabric Factory"
+  - "Sheep Ranch"
+  boughtBy:
+  - "Clothes Factory"
+  - "Medical Supplies Factory"
+  illegal: false
+  dangerours: false
+- name: "Fertilizer"
+  volume: 1
+  avgPrice: 319
+  soldBy:
+  - "Fertilizer Factory"
+  boughtBy:
+  - "Cocoa Farm"
+  - "Coffee Farm"
+  - "Spices Farm"
+  illegal: false
+  dangerours: false
+- name: "Fish"
+  volume: 0.5
+  avgPrice: 152
+  soldBy:
+  - "Fish Farm"
+  boughtBy: []
+  illegal: false
+  dangerours: false
+- name: "Fluorine"
+  volume: 1
+  avgPrice: 250
+  soldBy:
+  - "Gas Collector"
+  boughtBy:
+  - "Explosive Charge Factory"
+  - "Fuel Factory"
+  illegal: false
+  dangerours: true
+- name: "Food"
+  volume: 0.5
+  avgPrice: 300
+  soldBy:
+  - "Food Factory"
+  boughtBy:
+  - "Biotope"
+  - "Casino"
+  - "Habitat"
+  illegal: false
+  dangerours: false
+- name: "Food Bar"
+  volume: 0.5
+  avgPrice: 223
+  soldBy:
+  - "Food Bar Factory"
+  boughtBy:
+  - "Biotope"
+  - "Military Outpost"
+  illegal: false
+  dangerours: false
+- name: "Force Generator"
+  volume: 4
+  avgPrice: 49576
+  soldBy:
+  - "Force Generator Factory"
+  boughtBy:
+  - "Research Station"
+  - "Repair Dock"
+  illegal: false
+  dangerours: false
+- name: "Fruit"
+  volume: 0.5
+  avgPrice: 56
+  soldBy:
+  - "Fruit Farm"
+  boughtBy:
+  - "Habitat"
+  - "Luxury Food Factory"
+  - "Wine Factory"
+  illegal: false
+  dangerours: false
+- name: "Fuel"
+  volume: 1
+  avgPrice: 1232
+  soldBy:
+  - "Fuel Factory"
+  boughtBy:
+  - "Drone Factory"
+  - "Equipment Dock"
+  - "Planetary Trading Post"
+  - "Repair Dock"
+  - "Rocket Factory"
+  illegal: false
+  dangerours: false
+- name: "Fungus"
+  volume: 1
+  avgPrice: 46
+  soldBy:
+  - "Fungus Farm"
+  boughtBy:
+  - "Biotope"
+  - "Brewery"
+  - "Wine Factory"
+  illegal: false
+  dangerours: false
+- name: "Fusion Core"
+  volume: 2.5
+  avgPrice: 5114
+  soldBy:
+  - "Fusion Core Factory"
+  boughtBy:
+  - "Equipment Dock"
+  - "Fusion Generator Factory"
+  - "Tesla Coil Factory"
+  - "Shipyard"
+  illegal: false
+  dangerours: false
+- name: "Fusion Generator"
+  volume: 2.5
+  avgPrice: 39553
+  soldBy:
+  - "Fusion Generator Factory"
+  boughtBy:
+  - "Accelerator Factory"
+  - "Research Station"
+  illegal: false
+  dangerours: false
+- name: "Gauss Rail"
+  volume: 2
+  avgPrice: 7735
+  soldBy:
+  - "Gauss Rail Factory"
+  boughtBy:
+  - "Accelerator Factory"
+  illegal: false
+  dangerours: false
+- name: "Gems"
+  volume: 0.05
+  avgPrice: 400
+  soldBy:
+  - "Planetary Trading Post"
+  boughtBy:
+  - "Jewelry Manufacturer"
+  illegal: false
+  dangerours: false
+- name: "Glass"
+  volume: 1
+  avgPrice: 182
+  soldBy:
+  - "Glass Manufacturer"
+  boughtBy:
+  - "Biotope"
+  - "Display Factory"
+  - "High Capacity Lens Factory"
+  - "Laser Head Factory"
+  illegal: false
+  dangerours: false
+- name: "Gold"
+  volume: 0.5
+  avgPrice: 600
+  soldBy:
+  - "Noble Metal Mine"
+  - "Planetary Trading Post"
+  boughtBy:
+  - "Computer Component Factory"
+  - "Conductor Factory"
+  - "Fusion Core Factory"
+  - "Jewelry Manufacturer"
+  - "Processor Factory"
+  - "Semi Conductor Manufacturer"
+  - "Solar Cell Factory"
+  - "Wire Manufacturer"
+  illegal: false
+  dangerours: false
+- name: "Gun"
+  volume: 0.5
+  avgPrice: 1232
+  soldBy:
+  - "Gun Factory"
+  boughtBy:
+  - "Military Outpost"
+  - "War Robot Factory"
+  illegal: false
+  dangerours: true
+- name: "Helium"
+  volume: 1
+  avgPrice: 50
+  soldBy:
+  - "Gas Collector"
+  boughtBy:
+  - "Plasma Cell Factory"
+  illegal: false
+  dangerours: false
+- name: "High Capacity Lens"
+  volume: 1
+  avgPrice: 4689
+  soldBy:
+  - "High Capacity Lens Factory"
+  boughtBy:
+  - "Research Station"
+  illegal: false
+  dangerours: false
+- name: "High Pressure Tube"
+  volume: 2
+  avgPrice: 1650
+  soldBy:
+  - "High Pressure Tube Factory"
+  boughtBy:
+  - "Accelerator Factory"
+  - "Gauss Rail Factory"
+  illegal: false
+  dangerours: false
+- name: "Hydrogen"
+  volume: 1
+  avgPrice: 150
+  soldBy:
+  - "Gas Collector"
+  boughtBy:
+  - "Chemical Factory"
+  - "Fusion Core Factory"
+  illegal: false
+  dangerours: false
+- name: "Industrial Tesla Coil"
+  volume: 5.5
+  avgPrice: 10314
+  soldBy:
+  - "Tesla Coil Factory"
+  boughtBy:
+  - "Shipyard"
+  illegal: false
+  dangerours: true
+- name: "Jewelry"
+  volume: 0.2
+  avgPrice: 1260
+  soldBy:
+  - "Jewelry Manufacturer"
+  boughtBy: []
+  illegal: false
+  dangerours: false
+- name: "Laser Compressor"
+  volume: 1.5
+  avgPrice: 6577
+  soldBy:
+  - "Laser Compressor Factory"
+  boughtBy:
+  - "Equipment Dock"
+  illegal: false
+  dangerours: false
+- name: "Laser Head"
+  volume: 2
+  avgPrice: 4690
+  soldBy:
+  - "Laser Head Factory"
+  boughtBy:
+  - "Drill Factory"
+  - "Equipment Dock"
+  illegal: false
+  dangerours: false
+- name: "Laser Modulator"
+  volume: 3
+  avgPrice: 16742
+  soldBy:
+  - "Laser Modulator Factory"
+  boughtBy: []
+  illegal: false
+  dangerours: false
+- name: "Lead"
+  volume: 1
+  avgPrice: 200
+  soldBy:
+  - "Lead Mine"
+  - "Planetary Trading Post"
+  boughtBy:
+  - "Ammunition Factory"
+  illegal: false
+  dangerours: false
+- name: "Leather"
+  volume: 0.5
+  avgPrice: 37
+  soldBy:
+  - "Dairy Farm"
+  - "Meat Factory"
+  boughtBy:
+  - "Habitat"
+  illegal: false
+  dangerours: false
+- name: "Liquor"
+  volume: 1.25
+  avgPrice: 1867
+  soldBy:
+  - "Distillery"
+  boughtBy:
+  - "Casino"
+  - "Habitat"
+  illegal: false
+  dangerours: false
+- name: "Luxury Food"
+  volume: 2.5
+  avgPrice: 6452
+  soldBy:
+  - "Luxury Food Factory"
+  boughtBy:
+  - "Casino"
+  illegal: false
+  dangerours: false
+- name: "Meat"
+  volume: 0.5
+  avgPrice: 37
+  soldBy:
+  - "Meat Factory"
+  boughtBy:
+  - "Food Factory"
+  - "Habitat"
+  - "Protein Factory"
+  illegal: false
+  dangerours: false
+- name: "Medical Supplies"
+  volume: 1
+  avgPrice: 3006
+  soldBy:
+  - "Medical Supplies Factory"
+  boughtBy:
+  - "Casino"
+  - "Military Outpost"
+  - "Repair Dock"
+  - "Shipyard"
+  illegal: false
+  dangerours: false
+- name: "Metal Plate"
+  volume: 3
+  avgPrice: 792
+  soldBy:
+  - "Metal Plate Factory"
+  boughtBy:
+  - "Body Armor Factory"
+  - "Drone Factory"
+  - "Repair Dock"
+  - "Shipyard"
+  - "Teleporter Factory"
+  - "Vehicle Factory"
+  - "Warhead Factory"
+  illegal: false
+  dangerours: false
+- name: "Microchip"
+  volume: 0.1
+  avgPrice: 896
+  soldBy:
+  - "Microchip Factory"
+  boughtBy:
+  - "Computation Mainframe Factory"
+  - "Computer Component Factory"
+  - "Display Factory"
+  - "Energy Generator Factory"
+  - "Processor Factory"
+  - "Rocket Factory"
+  - "Targeting Card Factory"
+  illegal: false
+  dangerours: false
+- name: "Military Tesla Coil"
+  volume: 4.5
+  avgPrice: 10314
+  soldBy:
+  - "Tesla Coil Factory"
+  boughtBy:
+  - "Military Outpost"
+  illegal: false
+  dangerours: true
+- name: "Mineral"
+  volume: 1.5
+  avgPrice: 500
+  soldBy:
+  - "Mineral Extractor"
+  - "Planetary Trading Post"
+  boughtBy:
+  - "Fertilizer Factory"
+  - "Fungus Farm"
+  illegal: false
+  dangerours: false
+- name: "Mining Robot"
+  volume: 8
+  avgPrice: 145977
+  soldBy:
+  - "Mining Robot Factory"
+  boughtBy:
+  - "Planetary Trading Post"
+  illegal: false
+  dangerours: false
+- name: "Morn Drug"
+  volume: 0.1
+  avgPrice: 5000
+  soldBy: []
+  boughtBy: []
+  illegal: true
+  dangerours: false
+- name: "Nanobot"
+  volume: 0.5
+  avgPrice: 1338
+  soldBy:
+  - "Nanobot Factory"
+  boughtBy:
+  - "Body Armor Factory"
+  - "Force Generator Factory"
+  - "Mining Robot Factory"
+  - "Repair Dock"
+  - "War Robot Factory"
+  illegal: false
+  dangerours: false
+- name: "Neon"
+  volume: 1
+  avgPrice: 200
+  soldBy:
+  - "Gas Collector"
+  boughtBy:
+  - "Energy Tube Factory"
+  - "Plasma Cell Factory"
+  illegal: false
+  dangerours: false
+- name: "Neutron Accelerator"
+  volume: 15
+  avgPrice: 125431
+  soldBy:
+  - "Accelerator Factory"
+  boughtBy:
+  - "Research Station"
+  illegal: false
+  dangerours: false
+- name: "Nitrogen"
+  volume: 1
+  avgPrice: 40
+  soldBy:
+  - "Gas Collector"
+  boughtBy:
+  - "Chemical Factory"
+  - "Fuel Factory"
+  illegal: false
+  dangerours: false
+- name: "Oil"
+  volume: 1
+  avgPrice: 490
+  soldBy:
+  - "Oil Refinery"
+  boughtBy:
+  - "Fuel Factory"
+  - "Paint Manufacturer"
+  - "Plastic Manufacturer"
+  - "Rubber Factory"
+  illegal: false
+  dangerours: false
+- name: "Ore"
+  volume: 2
+  avgPrice: 70
+  soldBy:
+  - "Ore Mine"
+  - "Planetary Trading Post"
+  boughtBy:
+  - "Glass Manufacturer"
+  - "Steel Factory"
+  illegal: false
+  dangerours: false
+- name: "Oxygen"
+  volume: 1
+  avgPrice: 80
+  soldBy:
+  - "Cocoa Farm"
+  - "Coffee Farm"
+  - "Corn Farm"
+  - "Fruit Farm"
+  - "Gas Collector"
+  - "Plant Farm"
+  - "Potato Farm"
+  - "Rice Farm"
+  - "Spices Farm"
+  - "Tea Farm"
+  - "Vegetable Farm"
+  - "Wheat Farm"
+  - "Wood Farm"
+  boughtBy:
+  - "Cattle Ranch"
+  - "Chemical Factory"
+  - "Fish Farm"
+  - "Repair Dock"
+  - "Sheep Ranch"
+  illegal: false
+  dangerours: false
+- name: "Paint"
+  volume: 1
+  avgPrice: 481
+  soldBy:
+  - "Paint Manufacturer"
+  boughtBy:
+  - "Ammunition Factory"
+  illegal: false
+  dangerours: false
+- name: "Paper"
+  volume: 1
+  avgPrice: 46
+  soldBy:
+  - "Paper Factory"
+  boughtBy:
+  - "Book Factory"
+  illegal: false
+  dangerours: false
+- name: "Plankton"
+  volume: 1
+  avgPrice: 50
+  soldBy:
+  - "Fish Farm"
+  - "Plankton Collector"
+  boughtBy:
+  - "Fertilizer Factory"
+  illegal: false
+  dangerours: false
+- name: "Plant"
+  volume: 1.5
+  avgPrice: 14
+  soldBy:
+  - "Plant Farm"
+  boughtBy:
+  - "Biotope"
+  illegal: false
+  dangerours: false
+- name: "Plasma Cell"
+  volume: 0.25
+  avgPrice: 174
+  soldBy:
+  - "Plasma Cell Factory"
+  boughtBy:
+  - "Accelerator Factory"
+  - "Display Factory"
+  - "Drone Factory"
+  - "Fusion Core Factory"
+  - "Fusion Generator Factory"
+  - "Laser Compressor Factory"
+  - "Power Unit Factory"
+  - "Teleporter Factory"
+  illegal: false
+  dangerours: false
+- name: "Plastic"
+  volume: 0.5
+  avgPrice: 137
+  soldBy:
+  - "Plastic Manufacturer"
+  boughtBy:
+  - "Energy Tube Factory"
+  - "Explosive Charge Factory"
+  - "Force Generator Factory"
+  - "Gun Factory"
+  - "High Capacity Lens Factory"
+  - "Servo Factory"
+  - "Tesla Coil Factory"
+  - "Transformator Factory"
+  - "Wire Manufacturer"
+  illegal: false
+  dangerours: false
+- name: "Platinum"
+  volume: 0.5
+  avgPrice: 750
+  soldBy:
+  - "Noble Metal Mine"
+  boughtBy:
+  - "Computer Component Factory"
+  - "Conductor Factory"
+  - "Energy Tube Factory"
+  - "Jewelry Manufacturer"
+  - "Processor Factory"
+  - "Solar Cell Factory"
+  - "Tools Factory"
+  illegal: false
+  dangerours: false
+- name: "Potato"
+  volume: 1
+  avgPrice: 24
+  soldBy:
+  - "Potato Farm"
+  boughtBy:
+  - "Carbon Extractor"
+  illegal: false
+  dangerours: false
+- name: "Power Unit"
+  volume: 5
+  avgPrice: 1211
+  soldBy:
+  - "Power Unit Factory"
+  boughtBy:
+  - "Antigrav Unit Factory"
+  - "Computation Mainframe Factory"
+  - "Fusion Generator Factory"
+  - "Mining Robot Factory"
+  - "Teleporter Factory"
+  - "Turbine Factory"
+  - "Vehicle Factory"
+  - "War Robot Factory"
+  illegal: false
+  dangerours: false
+- name: "Processor"
+  volume: 0.1
+  avgPrice: 7858
+  soldBy:
+  - "Computer Component Factory"
+  - "Processor Factory"
+  boughtBy:
+  - "Antigrav Unit Factory"
+  - "Computation Mainframe Factory"
+  - "Drill Factory"
+  - "Mining Robot Factory"
+  - "Satellite Factory"
+  - "Targeting Card Factory"
+  - "Targeting System Factory"
+  - "War Robot Factory"
+  illegal: false
+  dangerours: false
+- name: "Protein"
+  volume: 0.1
+  avgPrice: 34
+  soldBy:
+  - "Protein Factory"
+  boughtBy: []
+  illegal: false
+  dangerours: false
+- name: "Proton Accelerator"
+  volume: 15
+  avgPrice: 125431
+  soldBy:
+  - "Accelerator Factory"
+  boughtBy:
+  - "Research Station"
+  illegal: false
+  dangerours: false
+- name: "Raw Oil"
+  volume: 1
+  avgPrice: 150
+  soldBy:
+  - "Oil Rig"
+  - "Planetary Trading Post"
+  boughtBy:
+  - "Oil Refinery"
+  illegal: false
+  dangerours: false
+- name: "Rice"
+  volume: 1
+  avgPrice: 15
+  soldBy:
+  - "Rice Farm"
+  boughtBy:
+  - "Biotope"
+  - "Carbon Extractor"
+  - "Food Bar Factory"
+  illegal: false
+  dangerours: false
+- name: "Rocket"
+  volume: 4
+  avgPrice: 11250
+  soldBy:
+  - "Rocket Factory"
+  boughtBy:
+  - "Equipment Dock"
+  illegal: false
+  dangerours: true
+- name: "Rubber"
+  volume: 1
+  avgPrice: 686
+  soldBy:
+  - "Rubber Factory"
+  boughtBy:
+  - "Vehicle Factory"
+  illegal: false
+  dangerours: false
+- name: "Satellite"
+  volume: 15
+  avgPrice: 65714
+  soldBy:
+  - "Satellite Factory"
+  boughtBy:
+  - "Equipment Dock"
+  - "Research Station"
+  illegal: false
+  dangerours: false
+- name: "Scrap Metal"
+  volume: 3
+  avgPrice: 25
+  soldBy:
+  - "Drill Factory"
+  - "Drone Factory"
+  - "Laser Compressor Factory"
+  - "Mining Robot Factory"
+  - "Satellite Factory"
+  - "Scrap Metal Trader"
+  - "Teleporter Factory"
+  - "Vehicle Factory"
+  - "War Robot Factory"
+  - "Warhead Factory"
+  boughtBy:
+  - "Steel Factory"
+  illegal: false
+  dangerours: false
+- name: "Semi Conductor"
+  volume: 0.1
+  avgPrice: 129
+  soldBy:
+  - "Semi Conductor Manufacturer"
+  boughtBy:
+  - "Computer Component Factory"
+  - "Display Factory"
+  - "Microchip Factory"
+  - "Nanobot Factory"
+  - "Processor Factory"
+  illegal: false
+  dangerours: false
+- name: "Servo"
+  volume: 0.25
+  avgPrice: 1387
+  soldBy:
+  - "Servo Factory"
+  boughtBy:
+  - "Antigrav Generator Factory"
+  - "Laser Modulator Factory"
+  - "Turbine Factory"
+  illegal: false
+  dangerours: false
+- name: "Sheep"
+  volume: 1
+  avgPrice: 130
+  soldBy:
+  - "Sheep Ranch"
+  boughtBy:
+  - "Biotope"
+  - "Fabric Factory"
+  illegal: false
+  dangerours: false
+- name: "Silicon"
+  volume: 1
+  avgPrice: 500
+  soldBy:
+  - "Silicon Mine"
+  - "Planetary Trading Post"
+  boughtBy:
+  - "Semi Conductor Manufacturer"
+  - "Solar Cell Factory"
+  - "Transformator Factory"
+  illegal: false
+  dangerours: false
+- name: "Silver"
+  volume: 0.5
+  avgPrice: 300
+  soldBy:
+  - "Noble Metal Mine"
+  boughtBy:
+  - "Metal Plate Factory"
+  - "Tools Factory"
+  - "Transformator Factory"
+  illegal: false
+  dangerours: false
+- name: "Slave"
+  volume: 1
+  avgPrice: 15000
+  soldBy: []
+  boughtBy: []
+  illegal: true
+  dangerours: false
+- name: "Solar Cell"
+  volume: 2
+  avgPrice: 469
+  soldBy:
+  - "Solar Cell Factory"
+  boughtBy:
+  - "Solar Panel Factory"
+  - "Repair Dock"
+  - "Shipyard"
+  illegal: false
+  dangerours: false
+- name: "Solar Panel"
+  volume: 6
+  avgPrice: 6858
+  soldBy:
+  - "Solar Panel Factory"
+  boughtBy:
+  - "Planetary Trading Post"
+  - "Repair Dock"
+  - "Satellite Factory"
+  illegal: false
+  dangerours: false
+- name: "Solvent"
+  volume: 1
+  avgPrice: 402
+  soldBy:
+  - "Chemical Factory"
+  boughtBy:
+  - "Fertilizer Factory"
+  - "Paint Manufacturer"
+  illegal: false
+  dangerours: false
+- name: "Spices"
+  volume: 0.3
+  avgPrice: 268
+  soldBy:
+  - "Spices Farm"
+  boughtBy:
+  - "Habitat"
+  - "Luxury Food Factory"
+  illegal: false
+  dangerours: false
+- name: "Steel"
+  volume: 1
+  avgPrice: 277
+  soldBy:
+  - "Steel Factory"
+  boughtBy:
+  - "Ammunition Factory"
+  - "Conductor Factory"
+  - "Drill Factory"
+  - "Electro Magnet Factory"
+  - "Energy Tube Factory"
+  - "Explosive Charge Factory"
+  - "Force Generator Factory"
+  - "Fusion Generator Factory"
+  - "Gun Factory"
+  - "High Pressure Tube Factory"
+  - "Metal Plate Factory"
+  - "Plasma Cell Factory"
+  - "Repair Dock"
+  - "Rocket Factory"
+  - "Semi Conductor Manufacturer"
+  - "Servo Factory"
+  - "Steel Tube Factory"
+  - "Tesla Coil Factory"
+  - "Tools Factory"
+  - "Transformator Factory"
+  - "Turbine Factory"
+  - "Wire Manufacturer"
+  illegal: false
+  dangerours: false
+- name: "Steel Tube"
+  volume: 3
+  avgPrice: 704
+  soldBy:
+  - "Steel Tube Factory"
+  boughtBy:
+  - "Energy Tube Factory"
+  - "High Pressure Tube Factory"
+  - "Satellite Factory"
+  illegal: false
+  dangerours: false
+- name: "Targeting Card"
+  volume: 0.5
+  avgPrice: 11873
+  soldBy:
+  - "Computer Component Factory"
+  - "Targeting Card Factory"
+  boughtBy:
+  - "Targeting System Factory"
+  illegal: false
+  dangerours: false
+- name: "Targeting System"
+  volume: 0.75
+  avgPrice: 29674
+  soldBy:
+  - "Targeting System Factory"
+  boughtBy:
+  - "Military Outpost"
+  illegal: false
+  dangerours: false
+- name: "Tea"
+  volume: 0.2
+  avgPrice: 37
+  soldBy:
+  - "Tea Farm"
+  boughtBy:
+  - "Habitat"
+  illegal: false
+  dangerours: false
+- name: "Teleporter"
+  volume: 12
+  avgPrice: 39365
+  soldBy:
+  - "Teleporter Factory"
+  boughtBy:
+  - "Body Armor Factory"
+  - "Mining Robot Factory"
+  - "War Robot Factory"
+  - "Research Station"
+  illegal: false
+  dangerours: false
+- name: "Tools"
+  volume: 0.4
+  avgPrice: 214
+  soldBy:
+  - "Tools Factory"
+  boughtBy:
+  - "Equipment Dock"
+  - "Planetary Trading Post"
+  illegal: false
+  dangerours: false
+- name: "Toxic Waste"
+  volume: 4
+  avgPrice: 15
+  soldBy:
+  - "Ammunition Factory"
+  - "Fertilizer Factory"
+  - "Fuel Factory"
+  - "Fungus Farm"
+  - "Laser Head Factory"
+  - "Paint Manufacturer"
+  - "Rubber Factory"
+  boughtBy: []
+  illegal: false
+  dangerours: true
+- name: "Transformator"
+  volume: 0.2
+  avgPrice: 209
+  soldBy:
+  - "Transformator Factory"
+  boughtBy:
+  - "Electro Magnet Factory"
+  - "Electromagnetic Charge Factory"
+  - "Energy Container Factory"
+  - "Energy Inverter Factory"
+  - "Fusion Core Factory"
+  - "Gauss Rail Factory"
+  - "Laser Compressor Factory"
+  - "Laser Modulator Factory"
+  - "Power Unit Factory"
+  - "Solar Panel Factory"
+  - "Teleporter Factory"
+  illegal: false
+  dangerours: false
+- name: "Turbine"
+  volume: 7.5
+  avgPrice: 16729
+  soldBy:
+  - "Turbine Factory"
+  boughtBy:
+  - "Accelerator Factory"
+  - "Research Station"
+  - "Shipyard"
+  illegal: false
+  dangerours: false
+- name: "Vegetable"
+  volume: 1
+  avgPrice: 32
+  soldBy:
+  - "Vegetable Farm"
+  boughtBy:
+  - "Biotope"
+  - "Food Factory"
+  - "Habitat"
+  illegal: false
+  dangerours: false
+- name: "Vehicle"
+  volume: 25
+  avgPrice: 77087
+  soldBy:
+  - "Vehicle Factory"
+  boughtBy:
+  - "Military Outpost"
+  illegal: false
+  dangerours: false
+- name: "War Robot"
+  volume: 8
+  avgPrice: 92186
+  soldBy:
+  - "War Robot Factory"
+  boughtBy:
+  - "Military Outpost"
+  illegal: false
+  dangerours: true
+- name: "Warhead"
+  volume: 3
+  avgPrice: 5630
+  soldBy:
+  - "Warhead Factory"
+  boughtBy:
+  - "Equipment Dock"
+  - "Rocket Factory"
+  illegal: false
+  dangerours: true
+- name: "Water"
+  volume: 0.35
+  avgPrice: 20
+  soldBy:
+  - "Ice Mine"
+  - "Water Collector"
+  boughtBy:
+  - "Biotope"
+  - "Brewery"
+  - "Casino"
+  - ",Cattle Ranch"
+  - "Chemical Factory"
+  - "Cocoa Farm"
+  - "Coffee Farm"
+  - "Corn Farm"
+  - "Distillery"
+  - "Fish Farm"
+  - "Fruit Farm"
+  - "Fungus Farm"
+  - "Habitat"
+  - "Medical Supplies Factory"
+  - "Paint Manufacturer"
+  - "Paper Factory"
+  - "Plant Farm"
+  - "Potato Farm"
+  - "Rice Farm"
+  - "Sheep Ranch"
+  - "Spices Farm"
+  - "Tea Farm"
+  - "Vegetable Farm"
+  - "Wheat Farm"
+  - "Wood Farm"
+  illegal: false
+  dangerours: false
+- name: "Wheat"
+  volume: 1
+  avgPrice: 23
+  soldBy:
+  - "Wheat Farm"
+  boughtBy:
+  - "Biotope"
+  - ",Brewery"
+  - "Carbon Extractor"
+  - "Cattle Ranch"
+  - "Distillery"
+  - "Fish Farm"
+  - "Food Bar Factory"
+  - "Food Factory"
+  - "Luxury Food Factory"
+  - "Sheep Ranch"
+  illegal: false
+  dangerours: false
+- name: "Wine"
+  volume: 0.5
+  avgPrice: 182
+  soldBy:
+  - "Wine Factory"
+  boughtBy:
+  - "Casino"
+  - "Luxury Food Factory"
+  - "Habitat"
+  illegal: false
+  dangerours: false
+- name: "Wire"
+  volume: 0.5
+  avgPrice: 95
+  soldBy:
+  - "Wire Manufacturer"
+  boughtBy:
+  - "Antigrav Generator Factory"
+  - "Computation Mainframe Factory"
+  - "Computer Component Factory"
+  - "Laser Compressor Factory"
+  - "Microchip Factory"
+  - "Repair Dock"
+  - "Targeting System Factory"
+  illegal: false
+  dangerours: false
+- name: "Wood"
+  volume: 2.5
+  avgPrice: 350
+  soldBy:
+  - "Wood Farm"
+  boughtBy:
+  - "Biotope"
+  - "Habitat"
+  - "Paper Factory"
+  illegal: false
+  dangerours: false
+- name: "Zinc"
+  volume: 1
+  avgPrice: 250
+  soldBy:
+  - "Zinc Mine"
+  boughtBy:
+  - "Conductor Factory"
+  - "Medical Supplies Factory"
+  - "Solar Cell Factory"
+  illegal: false
+  dangerours: false
